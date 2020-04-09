@@ -1,0 +1,29 @@
+E:\Creativity\Programs\C#\Windows Forms 2.3\bin\Debug\Windows Forms 2.3.exe.config
+E:\Creativity\Programs\C#\Windows Forms 2.3\bin\Debug\Windows Forms 2.3.exe
+E:\Creativity\Programs\C#\Windows Forms 2.3\bin\Debug\Windows Forms 2.3.pdb
+E:\Creativity\Programs\C#\Windows Forms 2.3\obj\Debug\Windows Forms 2.3.csprojAssemblyReference.cache
+E:\Creativity\Programs\C#\Windows Forms 2.3\obj\Debug\Windows_Forms_2._3.Form1.resources
+E:\Creativity\Programs\C#\Windows Forms 2.3\obj\Debug\Windows_Forms_2._3.Properties.Resources.resources
+E:\Creativity\Programs\C#\Windows Forms 2.3\obj\Debug\Windows Forms 2.3.csproj.GenerateResource.cache
+E:\Creativity\Programs\C#\Windows Forms 2.3\obj\Debug\Windows Forms 2.3.exe
+E:\Creativity\Programs\C#\Windows Forms 2.3\obj\Debug\Windows Forms 2.3.pdb
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\bin\Debug\Windows Forms 2.3.exe.config
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\bin\Debug\Windows Forms 2.3.exe
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\bin\Debug\Windows Forms 2.3.pdb
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\obj\Debug\Windows Forms 2.3.csprojAssemblyReference.cache
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\obj\Debug\Windows_Forms_2._3.Form1.resources
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\obj\Debug\Windows_Forms_2._3.Properties.Resources.resources
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\obj\Debug\Windows Forms 2.3.csproj.GenerateResource.cache
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\obj\Debug\Windows Forms 2.3.exe
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\obj\Debug\Windows Forms 2.3.pdb
+E:\Creativity\Programs\C#\Windows Forms Lesson 2.3\obj\Debug\Windows Forms 2.3.csproj.CoreCompileInputs.cache
+E:\FileInfo-saveInfo\Windows Forms\bin\Debug\Windows Forms 2.3.exe.config
+E:\FileInfo-saveInfo\Windows Forms\bin\Debug\Windows Forms 2.3.exe
+E:\FileInfo-saveInfo\Windows Forms\bin\Debug\Windows Forms 2.3.pdb
+E:\FileInfo-saveInfo\Windows Forms\obj\Debug\Windows Forms 2.3.csprojAssemblyReference.cache
+E:\FileInfo-saveInfo\Windows Forms\obj\Debug\Windows_Forms_2._3.Form1.resources
+E:\FileInfo-saveInfo\Windows Forms\obj\Debug\Windows_Forms_2._3.Properties.Resources.resources
+E:\FileInfo-saveInfo\Windows Forms\obj\Debug\Windows Forms 2.3.csproj.GenerateResource.cache
+E:\FileInfo-saveInfo\Windows Forms\obj\Debug\Windows Forms 2.3.csproj.CoreCompileInputs.cache
+E:\FileInfo-saveInfo\Windows Forms\obj\Debug\Windows Forms 2.3.exe
+E:\FileInfo-saveInfo\Windows Forms\obj\Debug\Windows Forms 2.3.pdb
